@@ -1,0 +1,24 @@
+{
+  "name": "rc4_reactmobileproject",
+  "version": "1.0.0",
+  "description": "REACT Multiplatform project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindaperez/rc4_ReactMobileProject.git"
+  },
+  "author": "Linda Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindaperez/rc4_ReactMobileProject/issues"
+  },
+  "homepage": "https://github.com/lindaperez/rc4_ReactMobileProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
